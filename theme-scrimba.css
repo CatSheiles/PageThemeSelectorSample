@@ -1,0 +1,13 @@
+body {
+    background: Url("RealPineapplesBlueWoodBackground.jpg");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    border-bottom: 3px solid #2c0ab8;
+    width: fit-content; /*keeps border just big enough to take text instead of stretching across whole page */
+}
+
+select {
+    border: 2px solid #ddeae1;
+}
